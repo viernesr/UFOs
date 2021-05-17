@@ -6,7 +6,7 @@ Earlier in the module, an app is required to filter UFO findings based on date. 
 
 ## Results
 
-When the webpage first loads, every entry from the site is loaded into the webpage. At the bottom, there are five text boxes. At least one textbox must be filled in order for the filter to work. Once a textbox is filled, the only entries shown which has a match to the inputted entry. An example of a filter can be shown [here.](./images/filter_example.PNG)
+When the webpage first loads, every entry from the site is loaded into the webpage. At the bottom, there are five text boxes. At least one textbox must be filled in order for the filter to work. Once a textbox is filled, the only entries shown which has a match to the inputted entry. An example of a filter can be shown [here.](./static/images/filter_example.PNG)
 
 ## Summary
 
