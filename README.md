@@ -10,6 +10,6 @@ When the webpage first loads, every entry from the site is loaded into the webpa
 
 ## Summary
 
-One drawback of the webpage is how the entries have to be exact.
+One drawback of the webpage is how the entries have to be exact. Any capitilizations won't be able to match the entries within the data.
 
 One suggestion can be giving suggestions to what the user is looking for, if the entry or entries aren't exact within the textboxes.
